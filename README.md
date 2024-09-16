@@ -1,4 +1,5 @@
-# Weather-App
-- Designed a front-end application that allows users to input any city names from across the world to retrieve real-time data on the weather.
-- Created a friendly user interface that utilizes APIs to fetch weather data based on user input.
-- Built using CSS, HTML, and JavaScript on Visual Code Studio. 
+The whole purpose of this project is essentially creating my own weather app that presents each city's real-time data, including the temperature, humidity, and wind speed. 
+Based on user input, it will automatically generate real time data based on the city that was looked up 
+Some of the coding languages I used were: 
+1. CSS/HTML
+2. JavaScript
