@@ -1,12 +1,15 @@
-The goal of this project is to create a custom weather app that displays real-time data for any city, including temperature, humidity, and wind speed. The user-friendly interface fetches weather information via APIs based on user input, in which the application automatically generates this data.<br/>
-Through this personal project, I gained experience with new coding languages in Visual Studio Code, including: 
-1. CSS/HTML
-2. JavaScript
+# Custom Weather Application 
+The goal of this project is to create a custom weather application that displays real-time data for any city, including temperature, humdity, and wind speed. The user-friendly interface fetches weather information via APIs based on user input, automatically generating this data. 
 
+# Project Features 
+- Real-time weather data for any city.
+- User-friendly interface for easy navigation.
+- Displays temperature, humidity, and wind speed.
+- Fetches weather information via APIs based on user input.
 
-# Start-up 
+# Technical Skills 
+- CSS/HTML
+- JavaScript
 
-1. Run the code in Visual Studio Code.
-2. Ensure the live server is up and running.
-3. Once live, it will take you to the browser with the weather application.
-4. Enter any city, and the weather data will appear. 
+# Getting Started 
+- Have 
