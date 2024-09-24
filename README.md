@@ -12,4 +12,5 @@ The goal of this project is to create a custom weather application that displays
 - JavaScript
 
 # Getting Started 
-- Have 
+- Have Visual Code Studio installed on your machine.
+- Live server extention installed in Visual Code Studio to run the file. 
