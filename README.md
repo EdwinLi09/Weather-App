@@ -13,4 +13,14 @@ The goal of this project is to create a custom weather application that displays
 
 # Getting Started 
 - Have Visual Code Studio installed on your machine.
-- Live server extention installed in Visual Code Studio to run the file. 
+- Live Server extention installed in Visual Code Studio to run the file.
+- Open the html file and start the Live Server.
+- The browser will automatically open with the weather application.
+- Enter any city, and the weather data will appear.
+
+# Usage
+- Enter the name of any city in the input field.
+- The application will display the current temperature, humidity, and wind speed for the specified city.
+
+# Acknowledgments 
+- Inspired by the need for real-time weather information. 
