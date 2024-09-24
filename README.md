@@ -1,4 +1,5 @@
-The goal of this project is to create a custom weather app that displays real-time data for any city, including temperature, humidity, and wind speed. The user-friendly interface fetches weather information via APIs based on user input, in which the application automatically generates this data. Through this personal project, I gained experience with new coding languages in Visual Studio Code, including: 
+The goal of this project is to create a custom weather app that displays real-time data for any city, including temperature, humidity, and wind speed. The user-friendly interface fetches weather information via APIs based on user input, in which the application automatically generates this data.<br/>
+Through this personal project, I gained experience with new coding languages in Visual Studio Code, including: 
 1. CSS/HTML
 2. JavaScript
 
